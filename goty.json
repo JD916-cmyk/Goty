@@ -1,6 +1,4 @@
 {
-  "name": "Game of the Year API",
-  "source": "The Game Awards",
   "data": [
     { "year": 2014, "game": "Dragon Age: Inquisition" },
     { "year": 2015, "game": "The Witcher 3: Wild Hunt" },
