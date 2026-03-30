@@ -1,0 +1,17 @@
+{
+  "name": "Game of the Year API",
+  "source": "The Game Awards",
+  "data": [
+    { "year": 2014, "game": "Dragon Age: Inquisition" },
+    { "year": 2015, "game": "The Witcher 3: Wild Hunt" },
+    { "year": 2016, "game": "Overwatch" },
+    { "year": 2017, "game": "The Legend of Zelda: Breath of the Wild" },
+    { "year": 2018, "game": "God of War" },
+    { "year": 2019, "game": "Sekiro: Shadows Die Twice" },
+    { "year": 2020, "game": "The Last of Us Part II" },
+    { "year": 2021, "game": "It Takes Two" },
+    { "year": 2022, "game": "Elden Ring" },
+    { "year": 2023, "game": "Baldur's Gate 3" },
+    { "year": 2024, "game": "Astro Bot" }
+  ]
+}
